@@ -1,6 +1,8 @@
-# Hyde
+# Debunking Climate Claims
 
-Hyde is a brazen two-column [Jekyll](http://jekyllrb.com) theme that pairs a prominent sidebar with uncomplicated content. It's based on [Poole](http://getpoole.com), the Jekyll butler.
+In a world controlled by social media, determining the truth is as impartive as ever.
+
+DCC aims to **comprehend** research, **debunk** claims and **uncover** the truth behind climate change. 
 
 ![Hyde screenshot](https://f.cloud.github.com/assets/98681/1831228/42af6c6a-7384-11e3-98fb-e0b923ee0468.png)
 
