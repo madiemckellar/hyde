@@ -7,9 +7,9 @@ permalink:        pretty
 # relative_permalinks: true
 
 # Setup
-title:            Debunking Climate Claims
+title:            Climate Claims
 tagline:          'Climate Claims'
-description:      'In a world controlled by social media, determining the truth is as impartive as ever. DCC aims to **comprehend** research, **debunk** claims and **uncover** the truth behind climate change.'
+description:      'In a world controlled by social media, determining the truth is as impartive as ever.'
 url:              https://madiemckellar.github.io/hyde/
 baseurl:          https://madiemckellar.github.io/hyde/
 
