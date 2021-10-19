@@ -7,9 +7,9 @@ permalink:        pretty
 # relative_permalinks: true
 
 # Setup
-title:            Hyde
+title:            Debunking Climate Claims
 tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+description:      'In a world controlled by social media, determining the truth is as impartive as ever. DCC aims to **comprehend** research, **debunk** claims and **uncover** the truth behind climate change.'
 url:              https://madiemckellar.github.io/hyde/
 baseurl:          https://madiemckellar.github.io/hyde/
 
