@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Articles
+permalink: about.html
 ---
 # Top 5 Articles 
 ## Published on _Wattsupwiththat.com_ 
