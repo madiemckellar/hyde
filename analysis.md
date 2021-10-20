@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Analysis 
+title: Analysis
+permalink: about.html
 ---
 # Evalutation of Claim #1 
 ## Have hurricanes really been getting worse due to climate change? Or is this a *'wow'* factor portrayed in media. 
