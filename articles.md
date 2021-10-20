@@ -31,7 +31,7 @@ This post states that Apple, Amazon, Microsoft, and Disney are supporting groups
 
 This claim prompted me to rethink my previous belief that these companies were supporting Biden’s climate act because it presented group names such as the US Chamber of Commerce, which I have heard before in economic and climate news. I realize that these large companies can do things under the public’s eye, which also made me question the reliability of my previous climate change sources.  
 
-![image](https://user-images.githubusercontent.com/92682877/137825487-5cf99123-4d81-4680-9d6a-f87f8f0c39b1.png)
+![Uploading image.png…]()
 
 
 ### 4.	The Emperor Penguin Extinction Scam & Sea Ice Dynamics!(
