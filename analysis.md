@@ -7,11 +7,13 @@ permalink: analysis.html
 # Evalutation of Claim #1 
 ## Have hurricanes really been getting worse due to climate change? Or is this a *'wow'* factor portrayed in media. 
 
-<div style="text-align: justify">
+
 
 Amongst social media outlets, IPCC reports and various research documentations, it seems as though the behaviour of hurricanes within the last 200 years is controversial. Throughout my experience as a researcher, student, and citizen, I have thought that hurricanes were reportedly getting worse due to increasing global temperatures. However, I never heavily researched this area to determine if the claim of progressively worsened hurricanes’ is accurate and shown with concrete evidence.
 
+
 The argument being made in this article is that social media outlets have inaccurately reported the worsening of hurricane behaviour, despite having information that states they may be occurring less frequently and with less power than before (Anon, 2021). This article presents a newly published Nature paper by Vecchi et al. that illustrates a figure outlining the frequency of hurricanes, which was supposedly greater in the 1920s than it is today (Anon, 2021). This is of particular interest because it was my belief that the worsening of hurricanes was one of the effects stated in the IPCC reports, therefore this new evidence would contradict many reports prior to it. 
+
 
 ![image](https://user-images.githubusercontent.com/92682877/138012515-a929ad03-8dd8-4898-ac25-9ed115a87198.png)
 
