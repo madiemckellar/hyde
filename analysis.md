@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Analysis 
 ---
 # Evalutation of Claim #1 
