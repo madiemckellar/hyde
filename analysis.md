@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Analysis
-permalink: about.html
+permalink: analysis.html
 ---
 
 # Evalutation of Claim #1 
