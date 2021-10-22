@@ -1,4 +1,5 @@
 ---
+<body class="theme-base-0b">
 layout: page
 title: About
 permalink: about.html
