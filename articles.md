@@ -7,7 +7,7 @@ permalink: articles.html
 ## Published on _Wattsupwiththat.com_ 
 ### 1. Analysis: Hurricanes Have Not Gotten More Intense or Frequent Over the Past 170 Years!
 
-[Link here](https://user-images.githubusercontent.com/92682877/137824897-a6470d8a-7f7b-48b5-8842-48b50944c141.png)
+[Link here](https://wattsupwiththat.com/2021/10/11/analysis-hurricanes-have-not-gotten-more-intense-frequent-over-past-170-years/)
 
 This post states that despite what the media says about hurricanes, climate and energy model reports state that these storms have not gotten worse or more frequent within the last 170 years. 
 
@@ -18,7 +18,7 @@ This blog made me question my beliefs about the worsening of hurricanes because 
 
 
 ### 2.	Prince Charles’ Climate Friendly Automobile Runs on Fine Wine and Cheese!
-[Link here](https://user-images.githubusercontent.com/92682877/137824970-abd337be-1701-491e-82a3-2c27cce29f7c.png) 
+[Link here](https://wattsupwiththat.com/2021/10/12/prince-charles-climate-friendly-automobile-runs-on-fine-wine-and-cheese/) 
 
 This article states that Prince Charles’ Aston Martin car was made more environmentally friendly by a conversion process that allows it to run on old English wine and cheese.
 
@@ -29,7 +29,7 @@ I thought the title seemed very amusing at first yet impossible, however this ar
 
 
 ### 3. Guardian Accuses Big Business of Undermining Biden’s $3.5 Trillion Climate Plan!
-[Link here](https://user-images.githubusercontent.com/92682877/137825022-b495c4dc-193d-4277-afbd-29719df9ba33.png)
+[Link here](https://wattsupwiththat.com/2021/10/02/guardian-accuses-big-business-of-undermining-bidens-3-5-trillion-climate-plan/)
 
 This post states that Apple, Amazon, Microsoft, and Disney are supporting groups working against Biden’s new climate policy act, despite agreeing to support the plan.
 
@@ -39,7 +39,7 @@ This claim prompted me to rethink my previous belief that these companies were s
 *Figure 3: Biden speaking at the leader summit for climate change by* [Bredan Smialowski - Getty Images](https://www.forbes.com/sites/jackkelly/2021/04/23/inside-bidens-plan-to-create-over-10-million-well-paying-jobs-with-his-clean-energy-initiative/?sh=283003582c10).
 
 ### 4.	The Emperor Penguin Extinction Scam & Sea Ice Dynamics!
-[Link here](https://user-images.githubusercontent.com/92682877/137825054-01723248-508d-4b7d-91c5-476ca5fa44ab.png)
+[Link here](https://www.youtube.com/watch?v=LJHRkYCSJWI)
 
 This article claimed that the climate models have inaccurately predicted the opposite affect for sea level dynamics, and states emperor penguins are not going extinct but flourishing in this environment. 
 
@@ -49,7 +49,7 @@ This article/video was posted by Jim Steele, a Director at San Francisco State U
 *Figure 4: "Emperor penguin" by* [Christopher Michel is licensed with CC BY-NC 2.0](https://www.flickr.com/photos/cmichel67/37495505626/). 
 
 ### 5.	Sky New Doomsday Climate Report Flooded with Misleading Sea Rise Claims!
-[Link here](https://user-images.githubusercontent.com/92682877/137825093-14384ef3-e616-4f28-b727-d473650d5bda.png)
+[Link here](https://wattsupwiththat.com/2021/10/13/sky-news-doomsday-climate-report-flooded-with-misleading-sea-rise-claims-guido/)
 
 This article states that journalists at Sky News are reporting inaccurate claims about the course of flooding in London England. 
 
